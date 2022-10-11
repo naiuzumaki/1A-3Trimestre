@@ -1,8 +1,13 @@
-body {
-    background: #999999;
-} 
-   ;
-
-p {
-   color: red;
+h1 { 
+    padding:60px;
+    font-size: 100%;
+    text-align: right;
 }
+
+p { 
+    color:black;
+}
+
+.nanami1{
+    float: left;
+    BORDER;     
