@@ -3,7 +3,7 @@ h1 {
     font-size: 100%;
     text-align: right;
 }
-
+<img src="imagefile. jpg" alt="Image" height="42" width="42">
 p { 
     color:black;
 }
@@ -11,3 +11,4 @@ p {
 .nanami1{
     float: left;
     BORDER;     
+
